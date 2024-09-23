@@ -1,0 +1,11 @@
+{
+  "name": "int-u2l2-24-25-student-exercises",
+  "version": "1.0.0",
+  "description": "### 🎯 Objectives - Create HTML elements with attributes to add links and images to their pages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
